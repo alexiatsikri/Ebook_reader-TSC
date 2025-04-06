@@ -95,8 +95,8 @@ Amplasarea componentelor pe placa a fost realizata cu grija, respectand bune pra
 - **Display Header** – lateral, cu decupaj dedicat pentru ribbon.
 - **Qwiic Connector** – pe margine, spatiu suficient pentru conectare facila.
 - **Baterie** – PCB decupat pentru a acomoda dimensiunea bateriei Li-Po.
-
-  ##Erori
+- 
+ ## Erori
 
   La editarea PCB-ului am intampinat urmatoarele erori:
   
