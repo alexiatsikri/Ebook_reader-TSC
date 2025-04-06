@@ -1,5 +1,5 @@
 # Ebook_reader-TSC
-## Prezentare generala
+
 ## Block Diagram
 
 https://docs.google.com/drawings/d/1ZFVh-U_sowT99nuvb3_rETZYwt1s8-GAN9rGF3NzrDg/edit
