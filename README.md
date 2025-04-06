@@ -1,6 +1,9 @@
 # Ebook_reader-TSC
 ## Prezentare generala
 ## Block Diagram
+
+https://docs.google.com/drawings/d/1ZFVh-U_sowT99nuvb3_rETZYwt1s8-GAN9rGF3NzrDg/edit
+
 ## Bill of Materials
 https://docs.google.com/spreadsheets/d/1N5ziHIieOx6WYcnIorr_FrSW2J7KDQvOZFM7QcZUQQs/edit?gid=1760852051#gid=1760852051
 
@@ -92,3 +95,15 @@ Amplasarea componentelor pe placa a fost realizata cu grija, respectand bune pra
 - **Display Header** – lateral, cu decupaj dedicat pentru ribbon.
 - **Qwiic Connector** – pe margine, spatiu suficient pentru conectare facila.
 - **Baterie** – PCB decupat pentru a acomoda dimensiunea bateriei Li-Po.
+
+  ##Erori
+
+  La editarea PCB-ului am intampinat urmatoarele erori:
+  
+  Smd, Copper Width - Net Class: 1 POWER
+  Smd, Copper Width - Net Class: 1 POWER
+  Smd, Copper Width - Net Class: 1 POWER
+  Smd, Copper Width
+  
+ Smd-Hole, Board Outline Clearance
+ Smd-Hole, Board Outline Clearance
