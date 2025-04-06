@@ -2,7 +2,7 @@
 ## Prezentare generala
 ## Block Diagram
 ## Bill of Materials
-## Functionalitate hardware
+https://docs.google.com/spreadsheets/d/1N5ziHIieOx6WYcnIorr_FrSW2J7KDQvOZFM7QcZUQQs/edit?gid=1760852051#gid=1760852051
 
 ## Functionalitate Hardware
 
@@ -23,7 +23,7 @@ Proiectul are la baza un circuit electronic compact, conceput pentru un dispozit
 - EPD Power genereaza tensiunile necesare, iar Drive Circuit furnizeaza semnalele de control.
 - Consum maxim la refresh: 30mA (alb-negru) / 60mA (color); consum zero in inactivitate.
 
-### 🌡Senzor de Mediu - BME688
+### Senzor de Mediu - BME688
 - Masoara temperatura, umiditate, presiune si calitatea aerului.
 - Comunica prin I2C si functioneaza la 3.3V.
 - Consum: <1uA in standby, 1–2mA in functionare.
@@ -57,9 +57,9 @@ Proiectul are la baza un circuit electronic compact, conceput pentru un dispozit
 
 ---
 
-## Microcontroller - ESP32-C6
+## Microcontroller - ESP32-C5
 
-Platforma principala este modulul **ESP32-C6-WROOM**, un microcontroller performant cu consum redus, conectivitate moderna si suport pentru multiple interfete:
+Platforma principala este modulul **ESP32-C5-WROOM**, un microcontroller performant cu consum redus, conectivitate moderna si suport pentru multiple interfete:
 
 - **Consum energetic estimat:**
   - Activ: 100–120mA
